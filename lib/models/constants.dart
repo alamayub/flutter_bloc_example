@@ -1,0 +1,20 @@
+const images = [
+  'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg',
+  'https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?cs=srgb&dl=pexels-anjana-c-674010.jpg&fm=jpg',
+  'https://media.istockphoto.com/photos/mountain-landscape-picture-id517188688?k=20&m=517188688&s=612x612&w=0&h=i38qBm2P-6V4vZVEaMy_TaTEaoCMkYhvLCysE7yJQ5Q=',
+  'https://images.pexels.com/photos/1172253/pexels-photo-1172253.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+  'https://www.gettyimages.com/gi-resources/images/500px/983794168.jpg',
+  'https://www.w3schools.com/howto/img_forest.jpg',
+  'https://thumbs.dreamstime.com/b/environment-earth-day-hands-trees-growing-seedlings-bokeh-green-background-female-hand-holding-tree-nature-field-gra-130247647.jpg',
+  'https://d3nn873nee648n.cloudfront.net/HomeImages/Concept-and-Ideas.jpg',
+  'https://st2.depositphotos.com/1006472/5665/i/600/depositphotos_56658541-stock-photo-faceless-hooded-anonymous-computer-hacker.jpg',
+  'https://photoscissors.com/images/samples/3-before.jpg',
+  'https://archive.org/download/02-11-2016_Images_Images_page_2/14-orangutan_1600x1000_279157.jpg',
+  'https://swall.teahub.io/photos/small/21-218810_beautiful-wallpapers-download-for-mobile-download-beautiful-images.jpg',
+  'https://images.pexels.com/photos/302743/pexels-photo-302743.jpeg',
+  'https://media.istockphoto.com/photos/wild-grass-in-the-mountains-at-sunset-picture-id1322277517?b=1&k=20&m=1322277517&s=170667a&w=0&h=BSN_5NMGYJY2qPwI3_vOcEXVSX_hmGBOmXebMBxTLX0=',
+  'https://img.freepik.com/free-photo/milford-sound-new-zealand-travel-destination-concept_53876-42945.jpg',
+  'https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510__480.jpg',
+  'https://st2.depositphotos.com/1000393/6507/i/600/depositphotos_65076917-stock-photo-hacker-and-terrorism-fight.jpg',
+  'https://media.springernature.com/relative-r300-703_m1050/springer-static/image/art%3A10.1038%2F528452a/MediaObjects/41586_2015_Article_BF528452a_Figg_HTML.jpg'
+];
