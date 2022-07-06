@@ -80,7 +80,10 @@ class HomePage extends StatelessWidget {
               return LoginView(
                 onLoginTapped: (email, password) {
                   context.read<AppBloc>().add(
-                        LoginAction(email: email, password: password),
+                        LoginAction(
+                          email: email,
+                          password: password,
+                        ),
                       );
                 },
               );
