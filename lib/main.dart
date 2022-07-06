@@ -77,7 +77,13 @@ class HomePage extends StatelessWidget {
           builder: (context, appState) {
             final notes = appState.fetchNotes;
             if (notes == null) {
-              return LoginView(onLoginTapped: (email, password) {});
+              return LoginView(
+                onLoginTapped: (email, password) {
+                  context.read<AppBloc>().add(
+                        LoginAction(email: email, password: password),
+                      );
+                },
+              );
             } else {
               return notes.toListView();
             }

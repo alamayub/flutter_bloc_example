@@ -4,7 +4,7 @@ import 'package:flutter_bloc_test/dialogs/loading_screen_controller.dart';
 
 class LoadingScreen {
   LoadingScreen._sharedInstance();
-  static late final LoadingScreen _shared = LoadingScreen._sharedInstance();
+  static final LoadingScreen _shared = LoadingScreen._sharedInstance();
   factory LoadingScreen.instance() => _shared;
 
   LoadingScreenController? controller;
